@@ -260,6 +260,40 @@ margin-right: -100px;
 
 /* section 5 */
 
+#section-5 h3 {
+  text-align: left;
+}
+
+.rumor {
+  text-align: right;
+}
+
+.fas {
+  color: #BCE050;
+
+}
+
+#section-5 .hr-top {
+  width: 50%;
+  margin-right: 0;
+}
+
+.available {
+  margin-top: -25px;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  width: auto;
+}
+
+.avail-sub {
+  margin-top: 38px;
+}
+
+#section-5 .btn {
+  margin-top: 300px;
+}
+
 
 
 /* section 6 */
