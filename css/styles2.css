@@ -1,0 +1,92 @@
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  text-transform: uppercase;
+  font-size: 7.25rem;
+  text-align: center;
+
+  border: 3px;
+  padding: 0 18px;
+  border-style: solid;
+  border-right: none;
+  border-left: none;
+  margin: 0;
+  position: absolute;
+  width: auto;
+}
+
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 1.8rem;
+}
+
+h4 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 16rem;
+  color: #BCE050;
+}
+/* only use for feature letter in header sections */
+h5 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 38rem;
+  text-align: center;
+  color: #BCE050;
+  margin-top: -60px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  color: #515151;
+  line-height: 1.2rem;
+}
+
+body {
+  background: #f9f9f9;
+}
+
+
+/* hr {
+  border: solid #000 3px;
+  border-bottom: none;
+  width: 500px;
+  margin: 12px auto;
+  border-left: 0;
+} */
+
+.container {
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+}
+
+.row-1 {
+      width: 500px;
+      margin-right: auto;
+      margin-left: auto;
+      margin-top: -520px;
+}
+
+.col-right {
+  width: 250px;
+  text-align: right;
+}
+
+.col-left {
+  width: 250px;
+  text-align: left;
+  border: 3px;
+  padding: 0 6px;
+  border-style: solid;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  margin: 0;
+}
