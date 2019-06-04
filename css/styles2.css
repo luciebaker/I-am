@@ -23,6 +23,7 @@ h2 {
 h3 {
   font-family: 'Fjalla One', sans-serif;
   font-size: 1.8rem;
+  margin: 0;
 }
 
 h4 {
@@ -89,4 +90,26 @@ body {
   border-bottom: none;
   border-right: none;
   margin: 0;
+}
+
+.row-3 {
+  margin: 150px 0 0 0;
+  text-align: center;
+}
+
+.row-3 .col-sm-6 {
+    border-bottom: solid #000 3px;
+    padding: 20px 0 25px 0;
+}
+
+.col-border-right {
+  border-right: solid #000 3px;
+}
+
+.curved-text {
+  letter-spacing: -1px;
+}
+
+.text-under-curve {
+  margin-top: -20px;
 }
