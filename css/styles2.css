@@ -111,7 +111,7 @@ body {
 }
 
 
-/* PORTFOLIO HEADER SECTION */
+/* HEADER SECTION - ALL MAIN PAGES*/
 .container-top {
     width: 500px;
     margin-right: auto;
@@ -180,6 +180,24 @@ body {
   margin: 0 218px 60px 218px;
 }
 
+/* HOME PAGE  */
+
+.feature-r1 {
+  font-size: 11rem;
+  letter-spacing: 1.0px;
+  margin-right: -40px;
+}
+
+.col-left-r1-index {
+  margin-top: -20px;
+}
+
+.title-r1-index {
+  text-align: left;
+  margin-top: -130px;
+  margin-left: 130px;
+  margin-right: -100px;
+}
 /* MAIN PORTFOLIO section  */
 
 .row {
@@ -195,6 +213,7 @@ body {
   text-align: center;
   margin-top: -150px;
   margin-left: 70px;
+
 }
 
 .text-r1 {
