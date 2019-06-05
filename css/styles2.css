@@ -192,8 +192,9 @@ body {
 }
 
 .title-r1 {
-  text-align: right;
+  text-align: center;
   margin-top: -150px;
+  margin-left: 70px;
 }
 
 .text-r1 {
@@ -209,7 +210,7 @@ body {
 .pf-img-1 {
   max-width: 100%;
   height: auto;
-  margin: 90px auto 20px auto;
+  margin: 90px auto 25px auto;
 }
 
 .btn-r1 {
